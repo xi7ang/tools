@@ -65,7 +65,7 @@ ls -la 2025*.md | head -5
 
 ### Monthly Resource Files
 - Use consistent formatting with descriptive titles
-- Keep resource titles clean; do not append obsolete branding or domain suffixes. If a site link is needed, use https://xi7ang.github.io
+- Keep resource titles clean; do not append obsolete branding or domain suffixes. If a site link is needed, use https://pan.devmini.space
 - Organize resources by category (Office tools, media software, educational content)
 - Provide both Chinese and English descriptions where applicable
 
